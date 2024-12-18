@@ -19,5 +19,5 @@
 <h2 align="center">  </h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,nodejs,idea,vscode,html,css,bots,discord,kotlin,maven,ps,js,git,mysql" />
+    <img src="https://skillicons.dev/icons?i=java,nodejs,idea,vscode,html,css,php,bots,discord,maven,ps,ae,ai,bash,eclipse,figma,github,js,git,mysql" />
 </div>
