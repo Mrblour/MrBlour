@@ -2,6 +2,13 @@
   <h1>👋 Hello, I'm MrBlour</h1>
   <p>Desarrollador web | Diseñador gráfico | Configurador de servidores</p>
   <p>CEO de <strong>Bautic Studios</strong> y <strong>Novation Hosting</strong></p>
+  <p>I am a Software Engineer, Network Systems Technician, and Graphic Designer. I currently live in Peru, although I am originally from Peru. I am 20 years old and have 5 years of experience working independently, as well as 3 years as an intermediate developer.</p>
+  <p><strong>Areas of expertise</strong></p>
+  <ul>
+    <li>Graphic Design</li>
+    <li>Development: Bots, Plugins, and Custom Solutions</li>
+    <li>Configuration: Discord and Minecraft Servers</li>
+  </ul>
 </div>
 
 ---
@@ -14,7 +21,7 @@
 ---
 
 ### 🛠️ **Habilidades**
-<div align="center" style="display: grid; grid-template-columns: repeat(5, 100px); grid-gap: 20px;">
+<div align="center" style="display: flex; justify-content: space-around; flex-wrap: wrap; gap: 20px;">
   <div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" width="60" />
     <p>HTML</p>
@@ -32,11 +39,11 @@
     <p>Python</p>
   </div>
   <div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/SQL_logo.svg" alt="SQL" width="60" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQL_logo.svg" alt="SQL" width="60" />
     <p>SQL</p>
   </div>
   <div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Visual_Studio_Logo_2019.svg" alt="VS" width="60" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Visual_Studio_Logo_2019.svg" alt="VS" width="60" />
     <p>Visual Studio</p>
   </div>
   <div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
@@ -68,5 +75,4 @@
 <div align="center">
   <img src="https://i.imgflip.com/65efzo.gif" alt="Anime Girl" width="200" style="border-radius: 10px; margin-top: 20px;" />
 </div>
-
 
