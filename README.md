@@ -1,17 +1,17 @@
 <div align="center">
   <img src="https://i.imgur.com/your-logo.png" alt="MrBlour Logo" width="150"/>
-  <h1>👋 Hello, I'm <span style="color: #007bff;">MrBlour</span>!</h1>
-  <p><strong>Software Engineer | Network Systems Technician | Graphic Designer</strong></p>
-  <p>CEO of <strong>Bautic Studios</strong> & <strong>Novation Hosting</strong></p>
+  <h1>👋 ¡Hola, soy <span style="color: #007bff;">MrBlour</span>!</h1>
+  <p><strong>Ingeniero de Software | Técnico en Sistemas de Redes | Diseñador Gráfico</strong></p>
+  <p>CEO de <strong>Bautic Studios</strong> & <strong>Novation Hosting</strong></p>
 </div>
 
 ---
 
-## 🌟 About Me  
+## 🌟 Sobre Mí  
 <img align="right" src="https://i.imgur.com/sample-professional-photo.jpg" alt="MrBlour" width="300" style="border-radius: 10px;"/>
 
-- 🔧 I specialize in **Graphic Design**, **Development (Bots & Plugins)**, and **Configurator** for Discord & Minecraft.  
-- 💻 **Skills**:  
+- 🔧 Me especializo en **Diseño Gráfico**, **Desarrollo (Bots & Plugins)** y **Configuración** para Discord y Minecraft.  
+- 💻 **Habilidades**:  
   <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" width="40"/> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML" width="40"/>
@@ -21,7 +21,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="40"/>
   </div>
   
-- 🛠️ **Tools**:  
+- 🛠️ **Herramientas**:  
   <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VSCode" width="40"/> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" title="Photoshop" width="40"/>
@@ -29,44 +29,44 @@
 
 ---
 
-## 🏢 My Studios  
+## 🏢 Mis Proyectos  
 
 ### **Bautic Studios**  
-🌟 *A creative and innovative studio for digital solutions.*  
+🌟 *Un estudio creativo e innovador para soluciones digitales.*  
 
 ### **Novation Hosting**  
-Reliable Hosting Services:  
-- 🌐 **Minecraft Hosting**  
-- 🤖 **Discord Bot Hosting**  
-- 🛡️ **Proxy Firewall Hosting**  
-- 🚀 **VPS Extreme Solutions**  
+Servicios de Hosting Confiables:  
+- 🌐 **Hosting para Minecraft**  
+- 🤖 **Hosting para Bots de Discord**  
+- 🛡️ **Hosting con Proxy Firewall**  
+- 🚀 **Soluciones VPS Extremas**  
 
 ---
 
-## 🛍️ My Products  
+## 🛍️ Mis Productos  
 <div align="center">
   <img src="https://i.imgur.com/product-image-example.jpg" alt="Product Showcase" width="400"/>
 </div>
 
-- Website Development.  
-- Graphic Design.  
-- Minecraft Plugins & Bot Creation.  
-- Discord Server Configuration.  
+- Desarrollo de Sitios Web.  
+- Diseño Gráfico.  
+- Creación de Plugins para Minecraft y Bots.  
+- Configuración de Servidores de Discord.  
 
 ---
 
-## 🎌 My Interests  
+## 🎌 Mis Intereses  
 <div align="left">
-  <img align="right" src="https://i.imgur.com/random-kawaii-anime.png" alt="Anime Girl" width="250" style="border-radius: 10px;"/>
+  <img align="right" src="https://i.imgur.com/alyasometimeshidesherfeelingsinrussian.jpg" alt="Alya Sometimes Hides Her Feelings in Russian" width="250" style="border-radius: 10px;"/>
   
-  - Anime & Kawaii Art 💖  
-  - Technology & Coding 🖥️  
-  - Gaming 🎮  
+  - Arte de Anime y Kawaii 💖  
+  - Tecnología y Programación 🖥️  
+  - Videojuegos 🎮  
 </div>  
 
 ---
 
-## 📲 Connect with Me  
+## 📲 Conéctate conmigo  
 
 <div align="center">
   <a href="https://github.com/MrBlour"><img src="https://img.shields.io/badge/GitHub-MrBlour-%23181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -77,6 +77,6 @@ Reliable Hosting Services:
 ---
 
 <div align="center">
-  <p>✨ <strong>Stay Creative, Stay Inspired!</strong> ✨</p>
+  <p>✨ <strong>¡Mantente Creativo, Mantente Inspirado!</strong> ✨</p>
   <img src="https://i.imgur.com/random-creative-image.png" alt="Creative Banner" width="500"/>
 </div>
