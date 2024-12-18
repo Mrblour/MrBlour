@@ -23,35 +23,35 @@
 ### 🛠️ **Habilidades**
 <div align="center" style="display: flex; justify-content: space-around; flex-wrap: wrap; gap: 20px; margin-top: 30px;">
   <div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" width="60" />
+    <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/html-5.svg" alt="HTML" width="60" />
     <p>HTML</p>
   </div>
   <div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="CSS" width="60" />
+    <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/css3.svg" alt="CSS" width="60" />
     <p>CSS</p>
   </div>
   <div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/JavaScript-logo.svg" alt="JS" width="60" />
+    <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/javascript.svg" alt="JS" width="60" />
     <p>JS</p>
   </div>
   <div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Python_logo_2020.svg" alt="Python" width="60" />
+    <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/python.svg" alt="Python" width="60" />
     <p>Python</p>
   </div>
   <div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQL_logo.svg" alt="SQL" width="60" />
+    <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/mysql.svg" alt="SQL" width="60" />
     <p>SQL</p>
   </div>
   <div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Visual_Studio_Logo_2019.svg" alt="VS" width="60" />
+    <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/visualstudio.svg" alt="VS" width="60" />
     <p>Visual Studio</p>
   </div>
   <div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/IntelliJ_IDEA_Logo.png" alt="IntelliJ" width="60" />
+    <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/intellij.svg" alt="IntelliJ" width="60" />
     <p>IntelliJ</p>
   </div>
   <div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Brave_Logo_2021.png" alt="Brave" width="60" />
+    <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/brave.svg" alt="Brave" width="60" />
     <p>Brave</p>
   </div>
 </div>
