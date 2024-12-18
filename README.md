@@ -20,4 +20,3 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=java,nodejs,idea,vscode,html,css,bots,discord,kotlin,maven,ps,js,git,mysql" />
 </div>
-
