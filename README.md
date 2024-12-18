@@ -4,10 +4,10 @@
   <p>CEO de <strong>Bautic Studios</strong> y <strong>Novation Hosting</strong></p>
   <p>I am a Software Engineer, Network Systems Technician, and Graphic Designer. I currently live in Peru, although I am originally from Peru. I am 20 years old and have 5 years of experience working independently, as well as 3 years as an intermediate developer.</p>
   <p><strong>Areas of expertise</strong></p>
-  <ul>
-    <li>Graphic Design</li>
-    <li>Development: Bots, Plugins, and Custom Solutions</li>
-    <li>Configuration: Discord and Minecraft Servers</li>
+  <ul style="list-style-type: none; padding: 0; font-size: 1.2em;">
+    <li>🎨 Graphic Design</li>
+    <li>🧩 Development: Bots, Plugins, and Custom Solutions</li>
+    <li>🌐 Configuration: Discord and Minecraft Servers</li>
   </ul>
 </div>
 
@@ -21,7 +21,7 @@
 ---
 
 ### 🛠️ **Habilidades**
-<div align="center" style="display: flex; justify-content: space-around; flex-wrap: wrap; gap: 20px;">
+<div align="center" style="display: flex; justify-content: space-around; flex-wrap: wrap; gap: 20px; margin-top: 30px;">
   <div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" width="60" />
     <p>HTML</p>
