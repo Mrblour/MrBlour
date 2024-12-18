@@ -4,20 +4,18 @@
   </a>
 </div>
 
-
 <h3 align="center">I am a young Software Developer and Graphic Designer</h3>
 
 <br/>
 
 <div align="center">
-
- CEO of Bautic Studios, Cosly Studios and Novation Hosting. Get our services with total security and confidence.
- 
- Graphic design - Development (Bots and Plugins) - Configured (Discord and Minecraft) - MySql data center management - Graphic designer
- 
+  CEO of Bautic Studios, Cosly Studios and Novation Hosting. Get our services with total security and confidence.
+  <br/>
+  Graphic design - Development (Bots and Plugins) - Configured (Discord and Minecraft) - MySql data center management - Graphic designer
 </div>
+
 <h2 align="center">  </h2>
-<br/>
+
 <div align="center">
     <img src="https://skillicons.dev/icons?i=java,nodejs,idea,vscode,html,css,php,bots,discord,maven,ps,ae,ai,bash,eclipse,figma,github,js,git,mysql" />
 </div>
