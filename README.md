@@ -29,7 +29,7 @@
 
 ---
 
-## 🏢 Mis Proyectos  
+## 🏢 Mis Proyectos  de Vida
 
 ### **Bautic Studios**  
 🌟 *Un estudio creativo e innovador para soluciones digitales.*  
