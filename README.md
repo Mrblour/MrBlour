@@ -1,16 +1,16 @@
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=30&pause=900&color=F7004B&center=&vCenter=&repeat=&random=&width=435&lines=Hello+how+are+you!;Welcome+to+my+profile;I'm+MrBlour" alt="Typing SVG" /></a>
+  <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=30&pause=900&color=F7004B&center=&vCenter=&repeat=&random=&width=435&lines=Hello+how+are+you!;Welcome+to+my+profile;I'm+MrBlour" alt="Typing SVG" /></a>
 </div>
 
-<h3 align="center">I am a Software Engineer & Handle more Threads</h3>
+<h3 align="center">I am a young Software Developer and Graphic Designer</h3>
 
 <br/>
 
 <div align="center">
 
- CEO de Bautic Studios y Novation Hosting. Obtén nuestros servicios con total seguridad y confianza.
+ CEO of Bautic Studios, Cosly Studios and Novation Hosting. Get our services with total security and confidence.
  
- Diseño gráfico - Desarrollo (Bots y Plugins) - Configurador (Discord y Minecraft)
+ Graphic design - Development (Bots and Plugins) - Configured (Discord and Minecraft) - MySql data center management - Graphic designer
  
 </div>
 <h2 align="center">  </h2>
