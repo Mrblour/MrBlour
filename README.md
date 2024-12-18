@@ -12,6 +12,7 @@
   CEO of Bautic Studios, Cosly Studios and Novation Hosting. Get our services with total security and confidence.
   <br/>
   Graphic design - Development (Bots and Plugins) - Configured (Discord and Minecraft)
+  <br/>
   MySql data center management - Graphic designer
 </div>
 
